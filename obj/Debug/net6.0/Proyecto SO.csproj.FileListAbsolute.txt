@@ -1,0 +1,15 @@
+C:\Users\Arturo\source\repos\Proyecto SO\bin\Debug\net6.0\Proyecto SO.exe
+C:\Users\Arturo\source\repos\Proyecto SO\bin\Debug\net6.0\Proyecto SO.deps.json
+C:\Users\Arturo\source\repos\Proyecto SO\bin\Debug\net6.0\Proyecto SO.runtimeconfig.json
+C:\Users\Arturo\source\repos\Proyecto SO\bin\Debug\net6.0\Proyecto SO.dll
+C:\Users\Arturo\source\repos\Proyecto SO\bin\Debug\net6.0\ref\Proyecto SO.dll
+C:\Users\Arturo\source\repos\Proyecto SO\bin\Debug\net6.0\Proyecto SO.pdb
+C:\Users\Arturo\source\repos\Proyecto SO\obj\Debug\net6.0\Proyecto SO.csproj.AssemblyReference.cache
+C:\Users\Arturo\source\repos\Proyecto SO\obj\Debug\net6.0\Proyecto SO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arturo\source\repos\Proyecto SO\obj\Debug\net6.0\Proyecto SO.AssemblyInfoInputs.cache
+C:\Users\Arturo\source\repos\Proyecto SO\obj\Debug\net6.0\Proyecto SO.AssemblyInfo.cs
+C:\Users\Arturo\source\repos\Proyecto SO\obj\Debug\net6.0\Proyecto SO.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\source\repos\Proyecto SO\obj\Debug\net6.0\Proyecto SO.dll
+C:\Users\Arturo\source\repos\Proyecto SO\obj\Debug\net6.0\ref\Proyecto SO.dll
+C:\Users\Arturo\source\repos\Proyecto SO\obj\Debug\net6.0\Proyecto SO.pdb
+C:\Users\Arturo\source\repos\Proyecto SO\obj\Debug\net6.0\Proyecto SO.genruntimeconfig.cache
